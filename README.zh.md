@@ -19,7 +19,7 @@ WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 
 ![./screenshot/zh-cn.png](./screenshot/zh-cn.png)
 
-又过了很很久，我发现在 [WebView2Feedback/issues/2673](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673) 和 [WebView2Feedback/discussions/2007](https://github.com/MicrosoftEdge/WebView2Feedback/discussions/2007) 中有人提到这个问题，所以我就创建了这个仓库，把我存档的文件通过 `Github Releases` 方式上传，以供大家下载使用。
+又过了很很久，我发现在 [WebView2Feedback/issues/2673](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673) 和 [WebView2Feedback/discussions/2007](https://github.com/MicrosoftEdge/WebView2Feedback/discussions/2007) 中有人提到这个问题，所以我就创建了这个仓库，把我存档的文件通过 `Github Releases` 方式上传（同时，我还上传了对应版本的NuGet包），以供大家下载使用。
 
 ## 存档
 

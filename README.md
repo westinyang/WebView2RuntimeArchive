@@ -19,7 +19,7 @@ After a period of time, I found that on the WebView2 Runtime download page, Fixe
 
 ![./screenshot/en-us.png](./screenshot/en-us.png)
 
-After another long time, I found in [WebView2Feedback/issues/2673](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673) and [WebView2Feedback/discussions/2007](https://github.com/MicrosoftEdge/WebView2Feedback/discussions/2007) someone mentioned this problem, so I created this repository and uploaded my archived files through `Github Releases` for everyone to download and use.
+After another long time, I found in [WebView2Feedback/issues/2673](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673) and [WebView2Feedback/discussions/2007](https://github.com/MicrosoftEdge/WebView2Feedback/discussions/2007) someone mentioned this problem, so I created this repository and uploaded my archived files through `Github Releases` (at the same time, I also uploaded the NuGet package of the corresponding version) for everyone to download and use.
 
 ## Archive
 
