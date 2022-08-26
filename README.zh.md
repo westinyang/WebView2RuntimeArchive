@@ -15,7 +15,7 @@ WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 
 在实际开发中，我更倾向于使用 Fixed Version Runtime，因为发布的软件在其他电脑上运行变得更简单。
 
-经过一段时间，我发现在 WebView2 Runtime 下载页面，Fixed Version 只提供最新的两个版本可以下载，所以，我打算接下来经常关注 WebView2 的更新，定期下载 Fixed Version Runtime 并存档。
+经过一段时间，我发现在 WebView2 Runtime 下载页面，Fixed Version 只提供最新的两个版本可以下载，所以，我打算接下来经常关注 WebView2 的更新，定期下载 Fixed Version Runtime 并存档，以便在以后的项目中使用任意版本。
 
 ![./screenshot/zh-cn.png](./screenshot/zh-cn.png)
 
