@@ -15,7 +15,7 @@ Around early 2021, I started following and started using Microsoft's WebView2. B
 
 In actual development, I prefer to use Fixed Version Runtime, because it is easier to publish software to run on other computers.
 
-After a period of time, I found that on the WebView2 Runtime download page, Fixed Version only provides the latest two build versions for download. Therefore, I plan to pay more attention to the updates of WebView2 in the future, and regularly download Fixed Version Runtime and archive it.
+After a period of time, I found that on the WebView2 Runtime download page, Fixed Version only provides the latest two versions for download. Therefore, I plan to pay more attention to the updates of WebView2 in the future, and regularly download Fixed Version Runtime and archive it, to use any version in future projects.
 
 ![./screenshot/en-us.png](./screenshot/en-us.png)
 
