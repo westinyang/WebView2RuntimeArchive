@@ -26,25 +26,29 @@ WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 > `90` 版本缺少arm64架构存档（因为当时官网下载链接有误）  
 > `93 ~ 94` 版本没有存档（那段时间可能忙于其他事情所以忘记下载了）
 
-- 104.0.1293.70
-- 103.0.1264.77
-- 102.0.1245.41
-- 101.0.1210.53
-- 100.0.1185.44
-- 99.0.1150.52
-- 98.0.1108.50
-- 97.0.1072.62
-- 96.0.1054.53
-- 95.0.1020.53
-- ~~94.0.992.28~~
-- ~~93.0.961.33~~
-- 92.0.902.73
-- 91.0.864.71
-- 90.0.818.42 `缺少arm64架构`
-- 89.0.774.77
-- 88.0.705.81
+[所有版本](https://github.com/westinyang/WebView2RuntimeArchive/releases)
+
+- [104.0.1293.70](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/104.0.1293.70)
+- [103.0.1264.77](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/103.0.1264.77)
+- [102.0.1245.41](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/102.0.1245.41)
+- [101.0.1210.53](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/101.0.1210.53)
+- [100.0.1185.44](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/100.0.1185.44)
+- [99.0.1150.52](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/99.0.1150.52)
+- [98.0.1108.50](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/98.0.1108.50)
+- [97.0.1072.62](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/97.0.1072.62)
+- [96.0.1054.53](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/96.0.1054.53)
+- [95.0.1020.53](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/95.0.1020.53)
+- 94.0.992.28
+- 93.0.961.33
+- [92.0.902.73](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/92.0.902.73)
+- [91.0.864.71](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/91.0.864.71)
+- [90.0.818.42](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/90.0.818.42) `缺少arm64架构`
+- [89.0.774.77](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/89.0.774.77)
+- [88.0.705.81](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/88.0.705.81)
 
 ## 赞助
+
+> 互联网的“记忆”也许是有限的，但我们热爱是无限的！
 
 如果你觉得这个项目有用，你可以 [给我买杯咖啡](https://www.buymeacoffee.com/westinyang)。
 
