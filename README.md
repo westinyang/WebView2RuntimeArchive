@@ -5,10 +5,11 @@
 WebView2 `Fixed Version Runtime` and `NuGet Package` archive
 
 > Official resources
+> - [WebView2 Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)
 > - [WebView2 Runtime Download](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
 > - [WebView2 NuGet Package](https://www.nuget.org/packages/Microsoft.Web.WebView2#versions-body-tab)
 > - [WebView2 Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues)
-  
+
 ## Why did I create this repository?
 
 Around early 2021, I started following and started using Microsoft's WebView2. Before this, I have been using CefSharp to develop hybrid applications, both are very easy to use, each has its own advantages and disadvantages, I think WebView2 will have more development potential!
@@ -45,6 +46,10 @@ After another long time, I found in [WebView2Feedback/issues/2673](https://githu
 - [90.0.818.42](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/90.0.818.42) `Missing arm64 arch`
 - [89.0.774.77](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/89.0.774.77)
 - [88.0.705.81](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/88.0.705.81)
+
+## Expand
+
+- I'm not good at making NuGet packages that contain a fixed version of the WebView2 runtime, but you can refer to this project: [ProKn1fe/WebView2.Runtime](https://github.com/ProKn1fe/WebView2.Runtime)
 
 ## Sponsoring
 

@@ -5,10 +5,11 @@
 WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 
 > 官方资源
+> - [WebView2 Docs](https://docs.microsoft.com/zh-cn/microsoft-edge/webview2/)
 > - [WebView2 Runtime Download](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section)
 > - [WebView2 NuGet Package](https://www.nuget.org/packages/Microsoft.Web.WebView2#versions-body-tab)
 > - [WebView2 Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues)
-  
+
 ## 我为什么创建了这个仓库？
 
 2021年年初左右，我开始关注并开始使用微软的 WebView2。在这之前，我一直使用 CefSharp 开发混合应用，两者都很好用，各有优缺点，我认为 WebView2 会更有发展潜力！
@@ -45,6 +46,10 @@ WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 - [90.0.818.42](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/90.0.818.42) `缺少arm64架构`
 - [89.0.774.77](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/89.0.774.77)
 - [88.0.705.81](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/88.0.705.81)
+
+## 扩展
+
+- 关于如何制作包含固定版本运行时的NuGet包，我并不擅长，不过可以参考这个项目：[ProKn1fe/WebView2.Runtime](https://github.com/ProKn1fe/WebView2.Runtime)
 
 ## 赞助
 
