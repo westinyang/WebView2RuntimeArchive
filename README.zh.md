@@ -29,6 +29,7 @@ WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 
 [所有版本](https://github.com/westinyang/WebView2RuntimeArchive/releases)
 
+- [105.0.1343.53](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/105.0.1343.53)
 - [104.0.1293.70](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/104.0.1293.70)
 - [103.0.1264.77](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/103.0.1264.77)
 - [102.0.1245.41](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/102.0.1245.41)

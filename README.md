@@ -29,6 +29,7 @@ After another long time, I found in [WebView2Feedback/issues/2673](https://githu
 
 [All Releases](https://github.com/westinyang/WebView2RuntimeArchive/releases)
 
+- [105.0.1343.53](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/105.0.1343.53)
 - [104.0.1293.70](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/104.0.1293.70)
 - [103.0.1264.77](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/103.0.1264.77)
 - [102.0.1245.41](https://github.com/westinyang/WebView2RuntimeArchive/releases/tag/102.0.1245.41)
