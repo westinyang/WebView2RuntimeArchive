@@ -33,6 +33,10 @@ After another long time, I found in [WebView2Feedback/issues/2673](https://githu
 
 - I'm not good at making NuGet packages that contain a fixed version of the WebView2 runtime, but you can refer to this project: [ProKn1fe/WebView2.Runtime](https://github.com/ProKn1fe/WebView2.Runtime)
 
+## Discuss
+
+- QQ Group: 413904300
+
 ## Sponsoring
 
 > The "memory" of the Internet may be limited, but our love is unlimited!
