@@ -31,7 +31,7 @@ WebView2 `Fixed Version Runtime` 和 `NuGet Package` 存档
 
 ## 扩展
 
-- 关于如何制作包含固定版本运行时的NuGet包，我并不擅长，不过可以参考这个项目：[ProKn1fe/WebView2.Runtime](https://github.com/ProKn1fe/WebView2.Runtime)
+关于如何制作包含固定版本运行时的NuGet包，我并不擅长，不过可以参考这个项目：[ProKn1fe/WebView2.Runtime](https://github.com/ProKn1fe/WebView2.Runtime)
 
 ## 变更
 
