@@ -33,6 +33,14 @@ After another long time, I found in [WebView2Feedback/issues/2673](https://githu
 
 - I'm not good at making NuGet packages that contain a fixed version of the WebView2 runtime, but you can refer to this project: [ProKn1fe/WebView2.Runtime](https://github.com/ProKn1fe/WebView2.Runtime)
 
+## Change
+
+### 2024-12-03
+
+I found that the official website seems to no longer provide downloads of fixed version runtimes. If this is true, then this project will no longer be updated...
+
+![./screenshot/zh-cn.png](./screenshot/20241203_en-us.png)
+
 ## Sponsoring
 
 > The "memory" of the Internet may be limited, but our love is unlimited!
